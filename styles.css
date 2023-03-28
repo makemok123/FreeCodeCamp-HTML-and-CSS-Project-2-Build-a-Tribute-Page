@@ -1,7 +1,16 @@
-body:not(#all-bio) {
+body:not(ul) {
 text-align: center;
+}
+
+็#Dr-name{
+    font-size: 100px;
+}
+
+ul{
+    text-align: left;
 }
 
 img{
     max-width: 1000px;
 }
+
