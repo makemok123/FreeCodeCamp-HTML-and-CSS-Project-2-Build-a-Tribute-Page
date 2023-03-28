@@ -2,8 +2,12 @@ body:not(ul) {
 text-align: center;
 }
 
-็#Dr-name{
-    font-size: 500px;
+header h1{
+    font-size: 50px;
+}
+
+header h6{
+    font-size: 15px;
 }
 
 ul{
@@ -12,5 +16,6 @@ ul{
 
 img{
     max-width: 1000px;
+    width: 100%;
 }
 
