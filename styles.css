@@ -1,3 +1,7 @@
+*{
+    font-family: "Open Sans", sans-serif;
+}
+
 body:not(ul) {
 text-align: center;
 }
