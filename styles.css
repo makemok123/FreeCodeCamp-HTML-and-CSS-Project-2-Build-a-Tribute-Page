@@ -12,6 +12,7 @@ margin-bottom: 60px;
 }
 
 header h1{
+    padding-top: 50px;
     font-size: 35px;
 }
 
@@ -53,3 +54,12 @@ figcaption{
     margin: 20px;
 }
 
+.esteem{
+    font-style: italic;
+    text-align: left;
+}
+
+footer{
+    font-size: 1.25em;
+    padding-bottom: 50px;
+}
