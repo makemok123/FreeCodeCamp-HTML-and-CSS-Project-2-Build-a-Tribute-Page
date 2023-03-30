@@ -28,6 +28,10 @@ li{
     padding: 10px;
 }
 
+#head-bio{
+    margin: 40px 0 !important;
+}
+
 figure{
     background-color: white;
     padding: 10px;
