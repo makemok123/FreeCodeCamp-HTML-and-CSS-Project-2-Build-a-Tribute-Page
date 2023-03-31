@@ -51,9 +51,8 @@ img{
 }
 
 #image{
-    max-width: 1000px;
+    max-width: 100%;
     height: auto;
-    width: 100%;
 }
 
 figcaption{
