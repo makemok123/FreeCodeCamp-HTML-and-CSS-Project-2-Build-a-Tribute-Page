@@ -6,7 +6,7 @@ body:not(ul) {
 text-align: center;
 }
 
-main{
+#tribute-info{
 background-color: rgb(238, 238, 238);
 margin-bottom: 60px;
 }
