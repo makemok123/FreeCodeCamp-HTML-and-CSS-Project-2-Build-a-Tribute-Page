@@ -45,8 +45,9 @@ figure{
     padding: 10px;
 }
 
-img{
+#image{
     max-width: 1000px;
+    max-height: 500px;
     width: 100%;
 }
 
@@ -59,7 +60,7 @@ figcaption{
     text-align: left;
 }
 
-footer{
+#tribute-link{
     font-size: 1.25em;
     padding-bottom: 50px;
 }
