@@ -6,7 +6,7 @@ body:not(ul) {
 text-align: center;
 }
 
-#tribute-info{
+#main{
 background-color: rgb(238, 238, 238);
 margin-bottom: 60px;
 }
@@ -45,9 +45,13 @@ figure{
     padding: 10px;
 }
 
+img{
+    text-align: center;
+}
+
 #image{
     max-width: 1000px;
-    max-height: 500px;
+    height: auto;
     width: 100%;
 }
 
